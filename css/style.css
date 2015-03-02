@@ -350,7 +350,7 @@ span.highlight{
 	background: #578e3a;
 	}
 .about-right-list ul li span{
-	background: url(../images/icons.png) no-repeat -115px -3px;
+	background: url(../images/home-icon.png) no-repeat 0px 0px;
 	width: 23px;
 	height: 24px;
 	display: inline-block;
@@ -371,19 +371,19 @@ span.highlight{
 	margin: 10px 0;
 	}
 .about-right-list ul li span.circle{
-	background: url(../images/icons.png) no-repeat -140px -1px;
+	background: url(../images/home-icon.png) no-repeat 0px 0px;
 	width: 24px;
 	height: 26px;
 	display: inline-block;
 	}
 .about-right-list ul li span.tv{
-	background: url(../images/icons.png) no-repeat -166px 0px;
+	background: url(../images/home-icon.png) no-repeat 0px 0px;
 	width: 24px;
 	height: 24px;
 	display: inline-block;
 	}
 .about-right-list ul li span.bulb{
-	background: url(../images/icons.png) no-repeat -189px 0px;
+	background: url(../images/home-icon.png) no-repeat 0px 0px;
 	width: 20px;
 	height: 22px;
 	margin: 2px;
