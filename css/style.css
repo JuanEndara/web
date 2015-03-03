@@ -581,6 +581,7 @@ ul.social li span.text{
 	width: 100%;
 	border: 11px solid rgba(153, 204, 51, 0.67);
 	min-height: 259px;
+    height: 100%;
 }
 .one{
 	min-height: 362px;
@@ -2961,7 +2962,7 @@ ul.social-slide li i.mac{
 @media(max-width:320px){
 	.banner {
 		min-height: 490px;
-		background: url("../images/banner.jpg") no-repeat -595px -182px;
+		/*background: url("../images/banner.jpg") no-repeat -595px -182px;*/
 		}
 	.banner-info{
 		margin: 105px 0 0 0;
