@@ -1182,6 +1182,7 @@ ul.social li span.text{
 /*-- get-in --*/
 .get-in-touch{
 		padding-top:85px;
+        padding-bottom: 25px;
 		}
 .get-info h2{
 		color:#000000;
@@ -1224,7 +1225,7 @@ ul.social li span.text{
 	-o-background-size: cover;
 	-ms-background-size: cover;
 	-moz-background-size: cover;
-	padding: 85px 0;
+	padding: 25px 0;
 	}
 .contact-grid p{
 	color: #ffffff;
@@ -1258,7 +1259,7 @@ ul.social li span.text{
 	margin: 0 auto 20px auto;
 	}
 .contact-info {
-	margin-top: 70px;
+	margin-top: 15px;
 	}
 .contact-info input[type="text"]{
 	width: 31%;
