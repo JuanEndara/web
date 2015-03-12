@@ -849,7 +849,7 @@ ul.social li span.text{
 .team-grid-image ul{
 	margin: 0;
 	padding: 0;
-	top: 51.9%;
+	top: 0%;/*51.9%;*/
 	left: 5.5%;
 	position: absolute;
 	}
@@ -1853,7 +1853,7 @@ ul.social-slide li i.mac{
 		width: 56%;
 		}
 	.team-grid-image ul {
-		top: 47%;
+		top: 0%;/*47%;*/
 		left: 6.5%;
 		}
 	.team-grid-info h3 {
@@ -2217,7 +2217,7 @@ ul.social-slide li i.mac{
 		display: none;
 		}
 	.team-grid-image ul {
-		top: 47.7%;
+		top: 0%;/*47.7%;*/
 		left:6.4%;
 		}
 	.our-blog-info h2{
@@ -2572,7 +2572,7 @@ ul.social-slide li i.mac{
 		margin: 4px 0 0 0;
 		}
 	.team-grid-image ul {
-		top: 43.2%;
+		top: 0%;/*43.2%;*/
 		left: 7.7%;
 		}
 	.our-blog-info h2{
@@ -2847,7 +2847,7 @@ ul.social-slide li i.mac{
 		width: 50%;
 		}
 	.team-grid-image ul {
-		top: 46.7%;
+		top: 0%;/*46.7%;*/
 		left: 7.1%;
 		}
 	.august {
@@ -3157,7 +3157,7 @@ ul.social-slide li i.mac{
 		margin: 15px auto 30px auto;
 		}
 	.team-grid-image ul {
-		top: 54.4%;
+		top: 0%;/*54.4%;*/
 		left: 5.5%;
 		}
 	.team-grid {
